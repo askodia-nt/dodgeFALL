@@ -2,6 +2,7 @@
 
 slomo = 0.0
 PlayMusic("music/background.ogg")
+
 local health = GetPlayerHealth()
 
 
